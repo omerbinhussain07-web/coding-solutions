@@ -43,8 +43,8 @@ Explanation: 2 does not exist in nums so return -1
 
 **Language:** C  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 10.1 MB (beats 19.73%)  
-**Submitted:** 2026-11-24T18:38:32.145Z  
+**Memory:** 9.8 MB (beats 87.38%)  
+**Submitted:** 2026-11-24T18:43:44.116Z  
 
 ```c
 
